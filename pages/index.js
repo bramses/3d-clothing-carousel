@@ -1,5 +1,5 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import Head from "next/head";
+import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          Get started by editing{" "}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
@@ -25,10 +25,16 @@ export default function Home() {
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a id="some" className={styles.card}>
+            <h3>Launch 3d &rarr;</h3>
+            <p>Yeet</p>
+            
           </a>
+
+
+<a rel="ar" href="/mp3.usdz#applePayButtonType=buy&checkoutTitle=COP%20THIS%20LOOK&checkoutSubtitle=LAKE%TAHOE%20SWEATER&price=$15">
+        <img src="/vercel.svg" />
+    </a>
 
           <a
             href="https://github.com/vercel/next.js/tree/master/examples"
@@ -56,10 +62,10 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by{" "}
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
     </div>
-  )
+  );
 }
