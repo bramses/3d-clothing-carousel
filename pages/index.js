@@ -32,7 +32,7 @@ export default function Home() {
           </a>
 
 
-<a rel="ar" href="/mp3.usdz#applePayButtonType=buy&checkoutTitle=COP%20THIS%20LOOK&checkoutSubtitle=LAKE%TAHOE%20SWEATER&price=$15">
+<a rel="ar" href="/clotestusdz.usdz#applePayButtonType=buy&checkoutTitle=COP%20THIS%20LOOK&checkoutSubtitle=LAKE%TAHOE%20SWEATER&price=$15">
         <img src="/vercel.svg" />
     </a>
 
