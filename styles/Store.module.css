@@ -1,0 +1,27 @@
+.storeContainer {
+    min-height: 100vh;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    background: #AAAAAA;
+    /* background: linear-gradient(90deg, rgba(0,0,0,1) 61%, rgba(253,29,29,0.7525385154061625) 89%, rgba(122,17,184,0.7497373949579832) 100%); */
+}
+
+.title {
+    margin-bottom: 0px;
+    font-family: 'New Tegomin', serif;
+}
+
+.subtitle {
+    margin-top: 0px;
+    font-family: 'New Tegomin', serif;
+}
+
+.tshirt {
+    border-radius: 5%;
+    max-width: 100%;
+    height: auto;
+}
+
