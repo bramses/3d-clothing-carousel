@@ -42,9 +42,9 @@ export default function Store() {
                 <link rel="preconnect" href="https://fonts.gstatic.com" />
                 <link href="https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap" rel="stylesheet" />
             </Head>
-            <h1 className={`${styles.title} title`}>swixxz</h1>
-            <h2 className={`${styles.subtitle} subtitle`}>by maggie lindemann</h2>
-                <a rel="ar" href="/mp3.usdz#applePayButtonType=buy&checkoutTitle=BAD%20INFLUENCE%20SHIRT&checkoutSubtitle=SIZE%20SMALL&price=$15">
+            <h1 className={`${styles.title} title`}>clothing</h1>
+            <h2 className={`${styles.subtitle} subtitle`}>cool!</h2>
+                <a rel="ar" href="/mp3.usdz#applePayButtonType=buy&checkoutTitle=BUY%20NICE%20SHIRT&checkoutSubtitle=SIZE%20SMALL&price=$15">
                     <img
                         src="/tshirt.png"
                         alt="COP THIS LOOK"
@@ -53,7 +53,7 @@ export default function Store() {
                         height={500}
                     />
                 </a>
-                <span className={'tshirt'}>BAD INFLUENCE TSHIRT</span>
+                <span className={'tshirt'}>NICE TSHIRT</span>
 
         </div>
     )
